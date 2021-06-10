@@ -2,12 +2,7 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - os
   - numpy
   - pandas
-  - re
   - SPARQLWrapper
   - unidecode
-  - urllib
-  - json
-  - datetime
