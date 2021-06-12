@@ -1,0 +1,16 @@
+PRGROUP	NAME	WATER	SED	BIOTA
+O-BR	Organobromines	WCOC	CASD	BCOC
+OC-CL	Organochlorines (general)	PEWB	PESD	PEBI
+O-GPT	Pesticides (general)	PEWB	PESD	PEBI
+O-PAH	Polycyclic aromatic hydrocarbons (PAHs)	PCHW	SCAH	BCAH
+OC-TC	Toxaphene congeners	PEWB	PESD	PEBI
+OC-CB	Chlorobiphenyls	PPWC	SPCB	BCPB
+OC-DX	Dioxins	WCOC	CASD	BCOC
+O-FL	Organofluorines	WCOC	CASD	BCOC
+O-OP	Organophosphorus pesticides	PEWB	PESD	PEBI
+OC-DN	Cyclodienes	PEWB	PESD	PEBI
+OC-HC	Hexachlorocyclohexanes	PEWB	PESD	PEBI
+OC-DD	Dichloro-diphenyl-trichloroethane (DDTs)	PEWB	PESD	PEBI
+O-MET	Organo-metallic compounds	OMWC	OMPW	OMBI
+I-MET	Metals and metalloids	NA	RMIN	BCMT
+I-RNC	Radionuclides	WRAD	SRAD	BRAD
