@@ -1,0 +1,29 @@
+PARGROUP,PARAM,PRNAM,CAS
+-9,GSMF1000,Grain Size Mass Fraction <1000 micron,-9
+-9,GSMF125,Grain Size Mass Fraction <125 micron,-9
+-9,GSMF2000,Grain Size Mass Fraction <2000 micron,-9
+-9,GSMF63,Grain Size Mass Fraction <63 micron (silt/clay),-9
+-9,LOIGN,loss on ignition,-9
+-9,MOCON%,moisture content percent,-9
+-9,SUSP,suspended solids,-9
+-9,TURB,turbidity,-9
+B-END,LNFPE,length of female penis (mm) (imposex),-9
+B-BIO,LNMEA,length (mean or individual) (in combination with matrx),-9
+B-END,LNMPE,length of male penis (mm) (imposex),-9
+B-END,RPSI,Relative Penis Size Index (%) ((mean female penis length)^3/(mean male penis length)^3) x 100,-9
+B-END,VDS,Vas Deferens Sequence (stages 0-6) (imposex),-9
+B-END,VDSI,Vas Deferens Sequence Index (mean of VDS stages scored) (imposex),-9
+B-BIO,DRYWT%,dry weight percent,-9
+B-BIO,EXLIP%,extractable lipid percent,-9
+B-BIO,FATWT%,fat weight percent,-9
+B-BIO,LNMAX,length (max) (in combination with matrx),-9
+B-BIO,LNMIN,length (min) (in combination with matrx),-9
+B-BIO,AGMAX,age (max),-9
+B-BIO,AGMEA,age (mean),-9
+B-BIO,AGMIN,age (min),-9
+B-BIO,WTMAX,weight (maximum) (in combination with matrx),-9
+B-BIO,WTMEA,weight (mean or individual) (in combination with matrx),-9
+B-BIO,WTMIN,weight (minimum) (in combination with matrx),-9
+B-END,%FEMALEPOP,% female population,-9
+B-END,%MALEPOP,% male population,-9
+B-END,%STERF,"% sterile females (IMPS 5-6, INTS 2 or above)",-9

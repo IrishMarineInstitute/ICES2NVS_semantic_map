@@ -1,0 +1,24 @@
+Species,AphiaID,MATRX,S25,S25_label,TAXON,S09_label,S10_label,S11_label,S12_label,S13_label,S14_label,S15_label,S09,S10,S11,S12,S13,S14,S15
+Cepphus grylle,137130,EG,,,Cepphus grylle (ITIS: 176985: WoRMS 137130),not specified,not specified,eggs,not specified,not specified,not specified,not specified,S09133,S104,S1122,S1219,S1319,S1430,S152
+Cepphus grylle,137130,EH,,,Cepphus grylle (ITIS: 176985: WoRMS 137130),not specified,not specified,eggs,egg yolk and albumen homogenate,not specified,not specified,not specified,S09133,S104,S1122,S1255,S1319,S1430,S152
+Crangon crangon,107552,SB,,,Crangon crangon (ITIS: 97118: WoRMS 107552),not specified,not specified,not specified,,not specified,not specified,not specified,S09133,S104,S1131,,S1319,S1430,S152
+Gadus morhua,126436,RO,,,Gadus morhua (ITIS: 164712: WoRMS 126436),not specified,not specified,eggs,not specified,not specified,not specified,not specified,S09133,S104,S1122,S1219,S1319,S1430,S152
+Gobius,125988,SB,,,Gobius (ITIS: 171833: WoRMS 125988),not specified,not specified,not specified,,not specified,not specified,not specified,S09133,S104,S1131,,S1319,S1430,S152
+Haematopus ostralegus,147436,EG,,,Haematopus ostralegus (ITIS: 176469: WoRMS 147436),not specified,not specified,eggs,not specified,not specified,not specified,not specified,S09133,S104,S1122,S1219,S1319,S1430,S152
+Larus,137043,EH,,,Larus (ITIS: 176803: WoRMS 137043),not specified,not specified,eggs,egg yolk and albumen homogenate,not specified,not specified,not specified,S09133,S104,S1122,S1255,S1319,S1430,S152
+Larus argentatus,137138,EH,,,Larus argentatus (ITIS: 176824: WoRMS 137138),not specified,not specified,eggs,egg yolk and albumen homogenate,not specified,not specified,not specified,S09133,S104,S1122,S1255,S1319,S1430,S152
+Myoxocephalus scorpius,127203,BB,,,Myoxocephalus scorpius (ITIS: 167318: WoRMS 127203),not specified,not specified,not specified,,not specified,not specified,not specified,S09133,S104,S1131,,S1319,S1430,S152
+Mysidacea,149668,SB,,,Mysida (ITIS: 89855: WoRMS 149668),not specified,not specified,not specified,,not specified,not specified,not specified,S09133,S104,S1131,,S1319,S1430,S152
+Phoca hispida,159021,BB,,,New TAXON required.,not specified,not specified,not specified,blubber,not specified,not specified,not specified,S09133,S104,S1131,S1229,S1319,S1430,S152
+Phoca hispida,159021,KI,,,New TAXON required.,not specified,not specified,not specified,kidney,not specified,not specified,not specified,S09133,S104,S1131,S1248,S1319,S1430,S152
+Phoca hispida,159021,LI,,,New TAXON required.,not specified,not specified,not specified,liver,not specified,not specified,not specified,S09133,S104,S1131,S1216,S1319,S1430,S152
+Phoca hispida,159021,MU,,,New TAXON required.,not specified,not specified,not specified,muscle tissue,not specified,not specified,not specified,S09133,S104,S1131,S1218,S1319,S1430,S152
+Pollachius pollachius,126440,RO,,,Pollachius pollachius (ITIS: 164728: WoRMS 126440),not specified,not specified,eggs,not specified,not specified,not specified,not specified,S09133,S104,S1122,S1219,S1319,S1430,S152
+Psetta maxima,127149,MU,,,Scophthalmus maximus (ITIS: 172748: WoRMS 127149),not specified,not specified,not specified,muscle tissue,not specified,not specified,not specified,S09133,S104,S1131,S1218,S1319,S1430,S152
+Raja brachyura,105882,MU,,,New TAXON required.,not specified,not specified,not specified,muscle tissue,not specified,not specified,not specified,S09133,S104,S1131,S1218,S1319,S1430,S152
+Raja brachyura,105882,WO,,,New TAXON required.,not specified,not specified,not specified,not specified,not specified,not specified,not specified,S09133,S104,S1131,S1219,S1319,S1430,S152
+Salvelinus alpinus,127188,BB,,,Salvelinus alpinus (ITIS: 162001: WoRMS 127188),not specified,not specified,not specified,,not specified,not specified,not specified,S09133,S104,S1131,,S1319,S1430,S152
+Sterna hirundo,137162,EG,,,Sterna hirundo (ITIS: 176888: WoRMS 137162),not specified,not specified,eggs,not specified,not specified,not specified,not specified,S09133,S104,S1122,S1219,S1319,S1430,S152
+Uria aalge,137133,EG,,,Uria aalge (ITIS: 176974: WoRMS 137133),not specified,not specified,eggs,not specified,not specified,not specified,not specified,S09133,S104,S1122,S1219,S1319,S1430,S152
+Venerupis philippinarum,231750,SB,,,Ruditapes philippinarum (WoRMS 231750),not specified,not specified,not specified,flesh,not specified,not specified,not specified,S09133,S104,S1131,S1214,S1319,S1430,S152
+Venerupis philippinarum,231750,SH,,,Ruditapes philippinarum (WoRMS 231750),not specified,not specified,not specified,shell,not specified,not specified,not specified,S09133,S104,S1131,S1239,S1319,S1430,S152

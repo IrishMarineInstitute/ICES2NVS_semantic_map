@@ -1,0 +1,26 @@
+DTYPE,MATRX,METPT,S26_label
+CF,,,biota
+CS,SEDTOT,,sediment
+,SEDxxx,,sediment < xxx um
+CW,WT,-9,water body [dissolved plus reactive particulate <unknown phase]
+,,F,
+,,NF,water body [dissolved plus reactive particulate phase]
+,,NONE,
+,,NA,
+,,CP,
+,,GFF,water body [dissolved plus reactive particulate <GF/F phase]
+,,GF/F,
+,,FF-GF-0.7,
+,,GFC,water body [dissolved plus reactive particulate <GF/C phase]
+,,GF/C,
+,,FF-GF-1.2,
+,,FF-PP-1.2,
+,,FM-PC-0.4,water body [dissolved plus reactive particulate <0.4um phase]
+,,FM-PC-0.45,
+,,FM-PES-0.45,
+,,FM-CN-0.45,
+,,FM-CA-0.45,
+,,PCF40,
+,,PCF45,
+,,PCF,
+,,FM-CA-0.2,water body [dissolved plus reactive particulate <0.2um phase]
