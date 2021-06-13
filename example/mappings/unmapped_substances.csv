@@ -1,47 +1,7 @@
 PARAM,PRNAM,ICES_CASRN,S27_label,S27,NVS_CASRN
-24D,"2,4-dichlorophenoxyacetic acid",94-75-7,"2,4-dichlorophenoxyacetic acid",CS001551,94-75-7
-ATRZ,atrazine,1912-24-9,atrazine,CS001579,1912-24-9
-BD190,"2,3,3',4,4',5,6-heptabromodiphenyl ether (BDE190)",189084-68-2,"2,3,3',4,4',5,6-heptabromodiphenyl ether",CS002181,189084-68-2
-BENZ,benzene,71-43-2,benzene,CS003272,71-43-2
-CACO3,calcium carbonate,471-34-1,calcium carbonate,CS003129,471-34-1
-CB137,"2,2',3,4,4',5-hexachlorobiphenyl (CB137)",35694-06-5,"2,2',3,4,4',5-hexachlorobiphenyl",CS001740,35694-06-5
-CB56,"2,3,3',4'-tetrachlorobiphenyl (CB56)",41464-43-1,"2,3,3',4'-tetrachlorobiphenyl",CS001852,41464-43-1
-CB85,"2,2',3,4,4'-pentachlorobiphenyl (CB85)",65510-45-4,"2,2',3,4,4'-pentachlorobiphenyl",CS001747,65510-45-4
-CB97,"2,2',3',4,5-pentachlorobiphenyl (CB97)",41464-51-1,"2,2',3,4',5'-pentachlorobiphenyl",CS001691,41464-51-1
 CO,cobalt,7440-48-4,cobalt,CS002447,7440-48-4
-CORG,organic carbon,,organic carbon,CS002857,
-CS137,cesium-137,,caesium-137,CS002370,
 CTOT,total carbon,,total carbon,CS002860,
-DBTIN,dibutyltin (DBT) - expressed as Sn-atom,GM,dibutyltin (expressed as tin),CS003620,
-DCE,"1,2-dichloroethane",107-06-2,"1,2-dichloroethane",CS003247,107-06-2
-DCM,Dichloromethane,75-09-2,dichloromethane,CS003270,75-09-2
-DEHP,"Phthalic acid, bis(2-ethylhexyl) ester",117-81-7,bis(2-ethylhexyl)phthalate,CS001194,117-81-7
 DIC,dissolved inorganic carbon,,total inorganic carbon,CS002894,
-DIURN,Diuron,330-54-1,diuron,CS003293,330-54-1
-DPTIN,diphenyltin - expressed as Sn-atom,GM,diphenyltin (expressed as tin),CS003626,
-GLYPH,glyphosate,1071-83-6,N-(phosphonomethyl)glycine,CS003617,1071-83-6
-LINRN,linuron,330-55-2,linuron,CS000697,330-55-2
-MBTIN,monobutyltin (MBT) - expressed as Sn-atom,GM,monobutyltin (expressed as tin),CS003621,
-MCPA,"Acetic acid, (4-chloro-2-methylphenoxy)-",94-74-6,4-chloro-2-methylphenoxyacetic acid,CS001145,94-74-6
-MCPP,Mecoprop,93-65-2,methylchlorophenoxypropionic acid,CS000718,93-65-2
 MN,manganese,7439-96-5,total manganese,CS000305,7439-96-5
-MPTIN,monophenyltin - expressed as Sn-atom,GM,monophenyltin (expressed as tin),CS003627,
-NOPHE,Nonylphenols,25154-52-3,nonylphenol,CS003674,
-NOPHE4,4-Nonylphenol,104-40-5,4-nonylphenol,CS003211,
-NORG,organic nitrogen (N),,organic nitrogen,CS002859,
-NP1EO,nonylphenolmonoethoxylates,GM,nonylphenol monoethoxylate,CS003631,
-NP2EO,nonylphenoldiethoxylates,GM,nonylphenol diethoxylate,CS003632,
-OCPHE4,4-Octylphenol,1806-26-4,4-octylphenol,CS003619,1806-26-4
-PHATA,phaeophytin-a ,603-17-8 ,phaeophytin-a,CS002998,603-17-8
-SIMZ,simazine,122-34-9,simazine,CS000837,122-34-9
-TETIN,tetrabutyltin - expressed as Sn-atom,1461-25-2,tetrabutyltin (expressed as tin),CS003622,1461-25-2
-TOL,toluene,108-88-3,methylbenzene,CS003183,108-88-3
-TRCB,"1,2,4-trichlorobenzene",120-82-1,"1,2,4-trichlorobenzene",CS000956,120-82-1
-TRCB1,"1,2,3-trichlorobenzene",87-61-6,"1,2,3-trichlorobenzene",CS000949,87-61-6
-TRCB2,"1,3,5-trichlorobenzene",108-70-3,"1,3,5-trichlorobenzene",CS000970,108-70-3
-TRCBM1,"1,2,3/1,2,4/1,3,5 trichlorobenzene mixture",GM,trichlorobenzenes,CS003383,12002-48-1
 U,uranium,7440-61-1,uranium,CS026907,7440-61-1
 V,vanadium,7440-62-2,vanadium,CS002664,7440-62-2
-XYL,xylene,1330-20-7,xylene,CS003384,1330-20-7
-XYLMP,m- & p-xylene,GM,"1,3-dimethylbenzene and 1,4-dimethylbenzene",CS003482,
-XYLO,,95-47-6,"1,2-dimethylbenzene",CS000963,95-47-6
