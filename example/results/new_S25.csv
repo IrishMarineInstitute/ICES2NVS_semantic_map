@@ -1,6 +1,10 @@
 Species,AphiaID,MATRX,S25,S25_label,TAXON,S09_label,S10_label,S11_label,S12_label,S13_label,S14_label,S15_label,S09,S10,S11,S12,S13,S14,S15
+Cancer pagurus,107276,LI,,,New TAXON required.,not specified,not specified,not specified,liver,not specified,not specified,not specified,S09133,S104,S1131,S1216,S1319,S1430,S152
+Cancer pagurus,107276,MU,,,New TAXON required.,not specified,not specified,not specified,muscle tissue,not specified,not specified,not specified,S09133,S104,S1131,S1218,S1319,S1430,S152
 Crangon crangon,107552,SB,,,Crangon crangon (ITIS: 97118: WoRMS 107552),not specified,not specified,not specified,,not specified,not specified,not specified,S09133,S104,S1131,,S1319,S1430,S152
 Gobius,125988,SB,,,Gobius (ITIS: 171833: WoRMS 125988),not specified,not specified,not specified,,not specified,not specified,not specified,S09133,S104,S1131,,S1319,S1430,S152
+Micromesistius poutassou,126439,LI,,,New TAXON required.,not specified,not specified,not specified,liver,not specified,not specified,not specified,S09133,S104,S1131,S1216,S1319,S1430,S152
+Micromesistius poutassou,126439,MU,,,New TAXON required.,not specified,not specified,not specified,muscle tissue,not specified,not specified,not specified,S09133,S104,S1131,S1218,S1319,S1430,S152
 Myoxocephalus scorpius,127203,BB,,,Myoxocephalus scorpius (ITIS: 167318: WoRMS 127203),not specified,not specified,not specified,,not specified,not specified,not specified,S09133,S104,S1131,,S1319,S1430,S152
 Mysidacea,149668,SB,,,Mysida (ITIS: 89855: WoRMS 149668),not specified,not specified,not specified,,not specified,not specified,not specified,S09133,S104,S1131,,S1319,S1430,S152
 Phoca hispida,159021,BB,,,New TAXON required.,not specified,not specified,not specified,blubber,not specified,not specified,not specified,S09133,S104,S1131,S1229,S1319,S1430,S152
@@ -11,3 +15,5 @@ Psetta maxima,127149,MU,,,Scophthalmus maximus (ITIS: 172748: WoRMS 127149),not 
 Raja brachyura,105882,MU,,,New TAXON required.,not specified,not specified,not specified,muscle tissue,not specified,not specified,not specified,S09133,S104,S1131,S1218,S1319,S1430,S152
 Raja brachyura,105882,WO,,,New TAXON required.,not specified,not specified,not specified,not specified,not specified,not specified,not specified,S09133,S104,S1131,S1219,S1319,S1430,S152
 Salvelinus alpinus,127188,BB,,,Salvelinus alpinus (ITIS: 162001: WoRMS 127188),not specified,not specified,not specified,,not specified,not specified,not specified,S09133,S104,S1131,,S1319,S1430,S152
+Thunnus alalunga,127026,MU,,,New TAXON required.,not specified,not specified,not specified,muscle tissue,not specified,not specified,not specified,S09133,S104,S1131,S1218,S1319,S1430,S152
+Thunnus alalunga,127026,WO,,,New TAXON required.,not specified,not specified,not specified,not specified,not specified,not specified,not specified,S09133,S104,S1131,S1219,S1319,S1430,S152
